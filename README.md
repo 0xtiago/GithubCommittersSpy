@@ -62,7 +62,7 @@ python gh_committers_spy.py -d 90
 
 Receiving the number of collaborators in default branch in the last 90 days.
 
-![alt text](assets/images/demonstration.gif)
+![alt text](assets/images/gh_committers_spy.gif)
 
 ## Notes
 - Ensure you have a valid GitHub personal access token with appropriate permissions to access the repositories.
