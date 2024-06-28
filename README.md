@@ -5,7 +5,7 @@ This script enumerates active committers in specified GitHub repositories over a
 The objective behind this project was to facilitate the survey of the real number of users who collaborate in the Github repositories of important company projects, and thus be able to price SAST and SCA licenses with greater accuracy.
 
 - [Github Committers Spy](#github-committers-spy)
-  - [Special Thanks](#special-thanks)
+  - [Special Thanks to supporters and contributors](#special-thanks-to-supporters-and-contributors)
   - [Features](#features)
   - [Requirements](#requirements)
   - [Installation](#installation)
@@ -15,9 +15,10 @@ The objective behind this project was to facilitate the survey of the real numbe
   - [References](#references)
   - [Support](#support)
 
-## Special Thanks
-- Michelle Mesquita | https://github.com/michelleamesquita
-- Murillo Rocha | https://github.com/6drocha
+## Special Thanks to supporters and contributors
+- Michelle Mesquita - https://github.com/michelleamesquita
+- Murillo Rocha - https://github.com/6drocha
+- Tiago Machado - https://github.com/gar0t0
 
 
 ## Features
