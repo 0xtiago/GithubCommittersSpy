@@ -1,0 +1,6 @@
+https://github.com/microsoft/dotnet/
+https://github.com/google/device-infra/
+https://github.com/veracode/homebrew-srcclr
+https://github.com/checkmarx/ast-cli
+https://github.com/snyk/cli
+https://github.com/desenvolvedor-io/dev-store.git
