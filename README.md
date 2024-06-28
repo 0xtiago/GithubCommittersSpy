@@ -81,8 +81,5 @@ Receiving the number of collaborators in default branch in the last 90 days.
 
 ☕ If this tool helped you, how about inviting me for a coffee?? 😄
 
-
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tiagotavares)
-
 
