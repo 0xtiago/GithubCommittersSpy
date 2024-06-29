@@ -15,10 +15,10 @@ The objective behind this project was to facilitate the survey of the real numbe
   - [References](#references)
   - [Support](#support)
 
-## Special Thanks to supporters and contributors
+## Special thanks to supporters and contributors
 - Michelle Mesquita - https://github.com/michelleamesquita
 - Murillo Rocha - https://github.com/6drocha
-- Tiago Machado - https://github.com/gar0t0
+- Tiago "Kid" Machado - https://github.com/gar0t0
 
 
 ## Features
