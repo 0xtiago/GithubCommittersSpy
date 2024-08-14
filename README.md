@@ -1,4 +1,4 @@
-![Github Commiters Spy]([assets/images/gh_committers_spy.gif](https://res.cloudinary.com/dtr6hzxnx/image/upload/v1723639841/blog/GithubCommittersSpy_-_tiagotavares.io_cbx4rt.png))
+![Github Commiters Spy](assets/images/gh_committers_spy.gif](https://res.cloudinary.com/dtr6hzxnx/image/upload/v1723639841/blog/GithubCommittersSpy_-_tiagotavares.io_cbx4rt.png)
 # Github Committers Spy
 
 This script enumerates active committers in specified GitHub repositories over a given number of days. It fetches the data using the GitHub API and outputs the results to CSV files.
